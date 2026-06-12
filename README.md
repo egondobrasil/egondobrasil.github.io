@@ -7,10 +7,9 @@ Acesse o site em: [egondobrasil.github.io](https://egondobrasil.github.io)
 
 ## 📁 Estrutura do Projeto
 
-* `index.html` - Página inicial do site.
+* `index.html` - Página inicial do site (Sobre Mim).
 * `style.css` - Folha de estilo CSS contendo todo o design moderno, responsivo e paleta de cores.
 * `paginas/` - Pasta contendo as demais páginas com extensão `.htm`:
-  * `sobre.htm` - Informações sobre minha trajetória.
   * `projetos.htm` - Meu portfólio de projetos.
   * `contato.htm` - Informações e links para contato.
 
