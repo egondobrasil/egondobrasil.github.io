@@ -9,6 +9,7 @@ Acesse o site em: [egondobrasil.github.io](https://egondobrasil.github.io)
 
 * `index.html` - Página inicial do site (Sobre Mim).
 * `style.css` - Folha de estilo CSS contendo todo o design moderno, responsivo e paleta de cores.
+* `imagens/` - Pasta contendo as imagens do site (como a foto de perfil).
 * `paginas/` - Pasta contendo as demais páginas com extensão `.htm`:
   * `projetos.htm` - Meu portfólio de projetos.
   * `contato.htm` - Informações e links para contato.
