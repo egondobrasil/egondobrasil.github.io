@@ -51,7 +51,9 @@ body {
 
 .profile-pic {
     width: 120px;
-    height: 120px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
     margin-bottom: 15px;
     filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.15));
     transition: transform var(--transition-speed) ease, filter var(--transition-speed) ease;
@@ -153,7 +155,7 @@ body {
     }
     .profile-pic {
         width: 90px;
-        height: 90px;
+        height: 112px;
     }
     .nav-menu ul {
         display: flex;
