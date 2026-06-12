@@ -7,7 +7,24 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <main>
+    <aside class="sidebar">
+        <div class="profile-area">
+            <!-- SVG elíptico em branco para representar a foto -->
+            <svg class="profile-pic" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <ellipse cx="50" cy="50" rx="35" ry="45" fill="#ffffff" />
+            </svg>
+            <h2 class="profile-name">Egon do Brasil</h2>
+        </div>
+        <nav class="nav-menu">
+            <ul>
+                <li><a href="index.html" class="active"><span class="icon">🏠</span> Início</a></li>
+                <li><a href="sobre.html"><span class="icon">👤</span> Sobre Mim</a></li>
+                <li><a href="projetos.html"><span class="icon">💼</span> Projetos</a></li>
+                <li><a href="contato.html"><span class="icon">✉️</span> Contato</a></li>
+            </ul>
+        </nav>
+    </aside>
+    <main class="content">
         <p>Iniciando minha conta no GitHub.</p>
     </main>
 </body>
